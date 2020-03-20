@@ -4,8 +4,7 @@ rtp-engine in docker
 ## Build  
 Clone Repo `git clone https://github.com/TayyabTalha/rtpengin-docker.git`  
 move in clone repo `cd rtpengin-docker`  
-Build docker image  
-`docker build --tag tayyabtalha/rtpengine:latest .` 
+Build docker image `docker build --tag tayyabtalha/rtpengine:latest .` 
 
 ## RUN  
 Remove old docker instance `docker rm rtpengine`   
